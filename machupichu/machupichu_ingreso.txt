@@ -1,0 +1,7 @@
+
+1;Miguel Mejia;N/D;5465465;Teclado;Logitech;x4564;A-11;N/D;Tecla faltante;Armando Colorado;1321546;A
+2;Johny Chiroy;Solola;54546365;Laptop;Dell;u658;df454;Cargador;Pantalla rota;David To;21321;A
+3;Jose Pacheco;Santa Clara;52416378;Teclado;Microsoft;i5432;B-98;N/D;N/D;Carlos Guarcax;78462165;A
+4;Josue Minchez;Panajachel;45646654;Bocinas;Sony;MVS;u46;Cable auxiliar;No suena la bocina;Everildo Guzman;87654665;A
+5;Amiguel David ;San Juan;12345678;Teclado;Dell;hsd456;4588de;N/D;Le falta una tecla, El cliente requiere un matenimiento a su teclado;Elmer Chuc;12365478;A
+6;Antonio Escobar;Solola;58745169;Laptop;Dell;sd458s;136574s;Cargador;Inglreso en un buen estado, el cliente quiere activar su antivirus;Jose Everildo;13542544;A

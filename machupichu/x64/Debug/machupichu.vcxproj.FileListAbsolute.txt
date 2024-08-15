@@ -1,0 +1,35 @@
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\Proyectos\original\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\machupichu\machupichu\x64\Debug\machupichu.acerca.resources
+C:\machupichu\machupichu\x64\Debug\machupichu.vcxproj.SuggestedBindingRedirects.cache
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.acerca.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache

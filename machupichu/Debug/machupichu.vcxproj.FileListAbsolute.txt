@@ -1,0 +1,5 @@
+C:\Proyectos\machupichu\machupichu\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\Proyectos\machupichu\machupichu\Debug\machupichu.Form1.resources
+C:\Proyectos\machupichu\machupichu\Debug\machupichu.menu.resources
+C:\Proyectos\machupichu\machupichu\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\Proyectos\machupichu\machupichu\Debug\machupichu.ingresar.resources

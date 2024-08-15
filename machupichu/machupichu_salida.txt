@@ -1,0 +1,4 @@
+
+1;Se le agrego una tecla nueva y se realizo mantenimiento al teclado;250;viernes, 22 de enero de 2021;A
+2;Cambio de pantalla marca Dell;1200;jueves, 10 de octubre de 2019;A
+6;fue activado su antivirus,. ;300;martes, 21 de septiembre de 2021;A
